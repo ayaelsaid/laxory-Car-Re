@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block head %}
+    {{ super() }}
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="group-login">
+<form method="post">
+    <div class="group">
+        <h1>Login</h1>
+    
+
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required>      
+        <br>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password" required>
+        <br>
+        <div class="sumbit"><button type="submit">Login</button></div>
+    </div>
+</form>
+</div>  
+
+{% endblock %}
