@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden;
+  background-color: var(--background-color);
+}
+
+
+header {
+  position: fixed;
+  width: 100%;
+  background: var(--background-color);
+  color: var(--text-color);
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 40px;
+  display: block;
+  border-radius: 5px;
+  border: none;
+  background-color: purple;
+}
+
+
+#intro img {
+  width: 100%;
+}
+section {
+  padding: 50px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+#intro {
+position: relative;
+padding-top: 100px;
+
+}
+.intro h1, p, a{
+padding: 0px 0px;
+}
+h1 {
+  font-size: 4em;
+}
+.offer{
+  font-size:  2em;
+  font-weight: lighter;
+}
+.cta-button {
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: purple;
+  color: white;
+  padding: 10px 40px;
+  text-decoration-line: none;
+}
+.sliders {
+position: relative;
+width: 100%;
+max-width: 800px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
