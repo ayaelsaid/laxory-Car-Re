@@ -27,7 +27,7 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 | Package              | Installation Command                                                                                                                | 
 |----------------------|------------------------------------------------------------------------------------ ------------------------------------------------|
 | clone repository     | <div style="background-color:#f0f0f0; padding:5px;">git clone https://github.com/ayaelsaid/laxory-Car-Re.github.io/.git<br>         |   
-                       |  cd laxory-Car-Re.github.io</div>                                                                                                   |
+|                      |  cd laxory-Car-Re.github.io</div>                                                                                                   |
 | anaconda3            | <div style="background-color:#f0f0f0; padding:5px;">install anaconda env https://www.anaconda.com/download</div>                    |
 | python3              | <div style="background-color:#f0f0f0; padding:5px;">install python 3.11</div>                                                       |
 | Flask                | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask</div>                                                        |
