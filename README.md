@@ -1,12 +1,13 @@
 <h1 align="center">luxury Car</h1>
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  ## introduction
  
 luxury car is a website to reeerve a car easily from a varity of cars with description and you can pay online
 - **Deployed site** : **[][]**
 - **Blog** : **[][]**
 - **linkedIn** : **[[]** 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Installation
 
 
@@ -23,12 +24,11 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 | Popper.js            | <div style="background-color:#f0f0f0; padding:5px;">https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js</div> |
 | Bootstrap JavaScript | <div style="background-color:#f0f0f0; padding:5px;">https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js</div>       |
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Usage
---------
 
 - HomePage
------------
+
     <br>Landing page for the site with information and features.
 
 - **Sign Up:**
