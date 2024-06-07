@@ -21,10 +21,11 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 | sqlalchemy           | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask_sqlalchemy</div>                                             |
 | flask_bcrypt         | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask_bcrypt</div>                                                 |
 | werkzeug.security    | <div style="background-color:#f0f0f0; padding:5px;">pip3 install werkzeug.security</div>                                            |
-| Bootstrap CSS        | <div style="background-color:#f0f0f0; padding:5px;">https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css</bootstrap.min.css</div> |
+| Bootstrap CSS        | <div style="background-color:#f0f0f0; padding:5px;">https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css</div>                    |
 | Popper.js            | <div style="background-color:#f0f0f0; padding:5px;">https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js</div> |
 | Bootstrap JavaScript | <div style="background-color:#f0f0f0; padding:5px;">https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js</div>       |
--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 ## Usage
 --------
 
