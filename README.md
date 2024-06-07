@@ -1,4 +1,4 @@
-<center># luxury Car</center>
+<h1 align="center">luxury Car</h1>
 
  ## introduction
  
@@ -12,7 +12,7 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 
 | Package              | Installation Command                                                                                                                | 
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| anaconda3            | <div style="background-color:#f0f0f0; padding:5px;">install anaconda env https://www.anaconda.com/download</div>                  |
+| anaconda3            | <div style="background-color:#f0f0f0; padding:5px;">install anaconda env https://www.anaconda.com/download</div>                    |
 | python3              | <div style="background-color:#f0f0f0; padding:5px;">install python 3.11</div>                                                       |
 | Flask                | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask</div>                                                        |
 | Flask_login          | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask_login</div>                                                  |
@@ -27,8 +27,9 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 ## Usage
 --------
 
-- **HomePage:**
-     Landing page for the site with information and features.
+- HomePage
+-----------
+    <br>Landing page for the site with information and features.
 
 - **Sign Up:**
      Users can sign up to create an account on the site.
