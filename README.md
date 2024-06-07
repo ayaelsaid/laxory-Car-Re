@@ -1,5 +1,5 @@
   <center>
-    #luxury Car
+    luxury Car
   </center>
 
  ##introduction
