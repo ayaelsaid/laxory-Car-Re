@@ -1,7 +1,19 @@
-<h1 align="center">luxury Car</h1>
+# <h1 align="center">luxury Car</h1>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Author: Aya El Said
+
+# Sections
+
+1. [**Introduction**](#introduction): A brief overview of the project with links to the deployed site, blog article, and author's LinkedIn.
+2. [**Installation**](#Installation): Detailed steps to install and run the project locally.
+3. [**Usage**](#Usage): Instructions on how to use the project and a brief description of its features.
+4. [**Contributing**](#Contributing): Guidelines for contributing to the project.
+5. [**Related Projects**](#Related Projects): Links to other related projects.
+6. [**Licensing**](#Licensing): Information about the project's license
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
- ## introduction
+ ## Introduction
  
 luxury car is a website to reeerve a car easily from a varity of cars with description and you can pay online
 - **Deployed site** : **[][]**
@@ -12,7 +24,8 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 
 
 | Package              | Installation Command                                                                                                                | 
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------|------------------------------------------------------------------------------------ -------------------------------------------------
+| clone repository     | git clone https://github.com/ayaelsaid/laxory-Car-Re.github.io/.git / cd laxory-Car-Re.github.io
 | anaconda3            | <div style="background-color:#f0f0f0; padding:5px;">install anaconda env https://www.anaconda.com/download</div>                    |
 | python3              | <div style="background-color:#f0f0f0; padding:5px;">install python 3.11</div>                                                       |
 | Flask                | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask</div>                                                        |
@@ -27,7 +40,7 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Usage
 
-- HomePage
+<u>- **HomePage**</u>
 
     <br>Landing page for the site with information and features.
 
@@ -58,6 +71,22 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 - **Car:**
      Shows the cars with price, ID, color, and description.
 --------------------------------------------------------------------------------------------------------------------------------------
+## Contributing
 
- 
+Everyone has ideas to make the site better, and you are encouraged to share yours! Your advice is valuable, and I am still learning, so thank you for your help in making my site better.
 
+- **Fork the Project**
+- **Create your Feature Branch**
+- **Commit your Changes**
+- **Push to the Branch**
+- **Open a Pull Request**
+-----------------------------------------------------------------------------------------------------------------------------------------
+## Related projects
+
+**[avis](https://www.avis.com/en/locations/eg))**
+**[enterprise](https://www.enterprise.com/en/home.html)**
+
+------------------------------------------------------------------------------------------------------------------------------------------
+## Licensing
+
+MIT License 
