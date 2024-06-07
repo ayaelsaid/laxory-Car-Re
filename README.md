@@ -1,6 +1,4 @@
-  <center>
-    # luxury Car
-  </center>
+<center># luxury Car</center>
 
  ## introduction
  
