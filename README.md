@@ -10,7 +10,7 @@
 2. [**Installation**](#Installation): Detailed steps to install and run the project locally.
 3. [**Usage**](#Usage): Instructions on how to use the project and a brief description of its features.
 4. [**Contributing**](#Contributing): Guidelines for contributing to the project.
-5. [**Related projects**](#Related projects): Links to other related projects.
+5. [**Related projects**](#Related-projects): Links to other related projects.
 6. [**Licensing**](#Licensing): Information about the project's license
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
@@ -25,8 +25,9 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 
 
 | Package              | Installation Command                                                                                                                | 
-|----------------------|------------------------------------------------------------------------------------ -------------------------------------------------
-| clone repository     | git clone https://github.com/ayaelsaid/laxory-Car-Re.github.io/.git / cd laxory-Car-Re.github.io                                    |
+|----------------------|------------------------------------------------------------------------------------ ------------------------------------------------|
+| clone repository     | <div style="background-color:#f0f0f0; padding:5px;">git clone https://github.com/ayaelsaid/laxory-Car-Re.github.io/.git<br>         |   
+                       |  cd laxory-Car-Re.github.io</div>                                                                                                   |
 | anaconda3            | <div style="background-color:#f0f0f0; padding:5px;">install anaconda env https://www.anaconda.com/download</div>                    |
 | python3              | <div style="background-color:#f0f0f0; padding:5px;">install python 3.11</div>                                                       |
 | Flask                | <div style="background-color:#f0f0f0; padding:5px;">pip3 install flask</div>                                                        |
@@ -41,8 +42,7 @@ luxury car is a website to reeerve a car easily from a varity of cars with descr
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Usage
 
-- **HomePage**
-    <br>Landing page for the site with information and features.
+- **HomePage:** Landing page for the site with information and features.
 
 - **Sign Up:**
      Users can sign up to create an account on the site.
