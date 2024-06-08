@@ -1,5 +1,5 @@
 <h1 align="center">Luxury Car</h1>
-![My Landing Page](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png))
+![My Landing Page](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Author: Aya El Said
@@ -26,9 +26,13 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 
 **By building Luxury Car Rental, I aimed to bridge the gap between car rental companies and customers, providing a user-friendly platform that simplifies the process of finding, booking, and paying for rental cars.**
 
-- **Deployed site** : **[][]**
+- **Deployed site** : **[visit me][https://ayaelsaid.github.io/laxory-Car-Re.github.io/]**
 - **Blog** : **[][]**
-- **linkedIn** : **[[]** 
+- **linkedIn** : **[[]**
+
+
+  [Watch the demo video](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Installation
@@ -63,8 +67,8 @@ Building Luxury Car Rental presented numerous challenges and learning opportunit
 Despite these obstacles, each challenge served as an opportunity for growth and learning. Overcoming these struggles not only enhanced my technical skills but also reinforced my determination to build a fully functional car rental website from scratch.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Technical Details:
-![tech]()
+# Architecture
+![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
 
 ### Frontend
 
@@ -72,13 +76,15 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HTML, CSS, JavaScript   | Fundamental technologies for building the frontend. HTML provides structure, CSS adds styling, and JavaScript adds interactivity.                                 |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jinja2 Templating Engine| Used with Flask to generate dynamic HTML content by embedding Python code within HTML templates. Enables dynamic rendering of content based on server-side data.  |                                                                                                 
+| Jinja2 Templating Engine| Used with Flask to generate dynamic HTML content by embedding Python code within HTML templates. Enables dynamic rendering of content based on server-side data.  |
 
 ### Backend
 
-|    Component                           |           Description                                                                                                                                               |    |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|   
+|    Component                           |           Description                                                                                                                                               |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Flask Framework                        | Lightweight and flexible Python web framework for building web applications. Provides tools and libraries for handling requests, routing, and integrating with other|
-|                                        |components.                                                                                                                                                          |    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
+|                                        |components.                                                                                                                                                          |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Flask-Login                            | Flask extension for user session management, authentication, and authorization. Simplifies the implementation of user authentication and access control.            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------                                        |
 | bcrypt                                 | Password hashing library used for securely storing user passwords in the database. Provides cryptographic hashing functions to protect user passwords from          |
@@ -89,13 +95,32 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 
 ### Databases
 
-| Component        | Description                                                                                                                                                                                    |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|   | SQLAlchemy       | Powerful ORM (Object-Relational Mapping) library for Python. Provides a high-level interface for interacting with relational databases. Simplifies database operations by abstracting away|
+| Component        | Description                                                                                                                                                                               |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SQLAlchemy       | Powerful ORM (Object-Relational Mapping) library for Python. Provides a high-level interface for interacting with relational databases. Simplifies database operations by abstracting away|
 |                  | low-level SQL queries and allowing developers to work with Python objects.                                                                                                                |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SQLFile Database | Presumably, a SQLite database file (*.sqlite or similar) managed by SQLAlchemy. Database models (such as User, Car, Reservation, etc.) are defined using SQLAlchemy ORM,                  |
 |                  | which automatically maps Python classes to database tables.                                                                                                                               |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20043151.png)
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# snippets 
+
+**auth of log in:**
+[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045842.png)
+
+**auth of logout**
+[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045926.png)
+
+**view file**
+[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20050027.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Usage
 
@@ -127,6 +152,9 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 
 - **Car:**
      Shows the cars with price, ID, color, and description.
+
+  ![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20044804.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Contributing
 
@@ -141,7 +169,6 @@ Everyone has ideas to make the site better, and you are encouraged to share your
 ## Related projects
 
 **[avis](https://www.avis.com/en/locations/eg))**
-<br>
 **[enterprise](https://www.enterprise.com/en/home.html)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
