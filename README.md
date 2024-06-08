@@ -1,5 +1,6 @@
 <h1 align="center">Luxury Car</h1>
-  ![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
+
+![My Landing Page](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Author: Aya El Said
@@ -26,12 +27,17 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 
 **By building Luxury Car Rental, I aimed to bridge the gap between car rental companies and customers, providing a user-friendly platform that simplifies the process of finding, booking, and paying for rental cars.**
 
-- **Deployed site** : **[visit me][https://ayaelsaid.github.io/laxory-Car-Re.github.io/]**
+- **Deployed site** : **[visit me](https://ayaelsaid.github.io/laxory-Car-Re.github.io/)**
 - **Blog** : **[][]**
 - **linkedIn** : **[[]**
 
 
-  ![500 ERROR TO ACCESS IT IS SO EASY](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
+### Watch the demo video
+
+<video width="640" height="480" controls>
+  <source src="https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
