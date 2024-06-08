@@ -1,5 +1,5 @@
 <h1 align="center">Luxury Car</h1>
-![500 ERROR TO ACCESS IT IS SO EASY](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
+  ![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Author: Aya El Said
@@ -172,9 +172,9 @@ Everyone has ideas to make the site better, and you are encouraged to share your
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## Related projects
 
-**[avis](https://www.avis.com/en/locations/eg))**
+- **[avis](https://www.avis.com/en/locations/eg)**
 
-**[enterprise](https://www.enterprise.com/en/home.html)**
+- **[enterprise](https://www.enterprise.com/en/home.html)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Licensing
