@@ -3,16 +3,19 @@
 ![My Landing Page](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-## Author: Aya El Said
+## Author: Aya El Sayed
 
 # Sections
 
 1. [**Introduction && Inspiration &&  Motivation**](#introduction): A brief overview of the project with links to the deployed site, blog article, and author's LinkedIn.
 2. [**Installation**](#Installation): Detailed steps to install and run the project locally.
-3. [**Usage**](#Usage): Instructions on how to use the project and a brief description of its features.
-4. [**Contributing**](#Contributing): Guidelines for contributing to the project.
-5. [**Related projects**](#Related-projects): Links to other related projects.
-6. [**Licensing**](#Licensing): Information about the project's license
+3. [**Challenges and Struggles**](#Challenges-and-Struggles)
+4. [**Architecture**](#Architecture)
+5. [**snippets**](#snippets)
+6. [**Usage**](#Usage): Instructions on how to use the project and a brief description of its features.
+7. [**Contributing**](#Contributing): Guidelines for contributing to the project.
+8. [**Related projects**](#Related-projects): Links to other related projects.
+9. [**Licensing**](#Licensing): Information about the project's license
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
@@ -66,6 +69,7 @@ Building Luxury Car Rental presented numerous challenges and learning opportunit
 
 
 Despite these obstacles, each challenge served as an opportunity for growth and learning. Overcoming these struggles not only enhanced my technical skills but also reinforced my determination to build a fully functional car rental website from scratch.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Architecture
@@ -76,7 +80,6 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 |       Component         |                                                     Description                                                                                                   |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HTML, CSS, JavaScript   | Fundamental technologies for building the frontend. HTML provides structure, CSS adds styling, and JavaScript adds interactivity.                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Jinja2 Templating Engine| Used with Flask to generate dynamic HTML content by embedding Python code within HTML templates. Enables dynamic rendering of content based on server-side data.  |
 ### Backend
 
@@ -84,12 +87,9 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Flask Framework                        | Lightweight and flexible Python web framework for building web applications. Provides tools and libraries for handling requests, routing, and integrating with other|
 |                                        |components.                                                                                                                                                          |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Flask-Login                            | Flask extension for user session management, authentication, and authorization. Simplifies the implementation of user authentication and access control.            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------                                        |
 | bcrypt                                 | Password hashing library used for securely storing user passwords in the database. Provides cryptographic hashing functions to protect user passwords from          |
 |                                        | unauthorized access.                                                                                                                                                |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | User Authentication and Authorization  | Algorithms and logic for user authentication (login/logout) and authorization (access control). Involves verifying user credentials, managing user sessions, and    |
 |                                        |enforcing access control policies based on user roles and permissions.                                                                                               |
 
@@ -99,7 +99,6 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SQLAlchemy       | Powerful ORM (Object-Relational Mapping) library for Python. Provides a high-level interface for interacting with relational databases. Simplifies database operations by abstracting away|
 |                  | low-level SQL queries and allowing developers to work with Python objects.                                                                                                                |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SQLFile Database | Presumably, a SQLite database file (*.sqlite or similar) managed by SQLAlchemy. Database models (such as User, Car, Reservation, etc.) are defined using SQLAlchemy ORM,                  |
 |                  | which automatically maps Python classes to database tables.                                                                                                                               |
 
