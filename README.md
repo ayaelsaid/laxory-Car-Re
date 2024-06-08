@@ -89,7 +89,7 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 |                                        |components.                                                                                                                                                          |
 | Flask-Login                            | Flask extension for user session management, authentication, and authorization. Simplifies the implementation of user authentication and access control.            |
 | bcrypt                                 | Password hashing library used for securely storing user passwords in the database. Provides cryptographic hashing functions to protect user passwords from          |
-|                                        | unauthorized access.                                                                                                                                                |
+|                                        |unauthorized access.                                                                                                                                                |
 | User Authentication and Authorization  | Algorithms and logic for user authentication (login/logout) and authorization (access control). Involves verifying user credentials, managing user sessions, and    |
 |                                        |enforcing access control policies based on user roles and permissions.                                                                                               |
 
@@ -98,9 +98,9 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 | Component        | Description                                                                                                                                                                               |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SQLAlchemy       | Powerful ORM (Object-Relational Mapping) library for Python. Provides a high-level interface for interacting with relational databases. Simplifies database operations by abstracting away|
-|                  | low-level SQL queries and allowing developers to work with Python objects.                                                                                                                |
+|                  |low-level SQL queries and allowing developers to work with Python objects.                                                                                                                |
 | SQLFile Database | Presumably, a SQLite database file (*.sqlite or similar) managed by SQLAlchemy. Database models (such as User, Car, Reservation, etc.) are defined using SQLAlchemy ORM,                  |
-|                  | which automatically maps Python classes to database tables.                                                                                                                               |
+|                  |which automatically maps Python classes to database tables.                                                                                                                               |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
