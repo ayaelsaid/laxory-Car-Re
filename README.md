@@ -32,7 +32,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 
 - **Deployed site** : **[visit me](https://ayaelsaid.github.io/laxory-Car-Re.github.io/)**
 - **Blog** : **[blog](https://app.hackernoon.com/mobile/V6BE6TO89ju8w3WMT0rM)**
-- **linkedIn** : **[[]**
+- **linkedIn** : **[Aya Elsayed](https://www.linkedin.com/in/aya-elsayed-601228285/recent-activity/all/)**
 
 
 ![GIF](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Untitled.gif)
