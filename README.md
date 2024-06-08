@@ -30,7 +30,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 
 **By building Luxury Car Rental, I aimed to bridge the gap between car rental companies and customers, providing a user-friendly platform that simplifies the process of finding, booking, and paying for rental cars.**
 
-**[My deployed site](https://ayaelsaid.github.io/laxory-Car-Re.github.io/)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[My Blog](https://app.hackernoon.com/mobile/V6BE6TO89ju8w3WMT0rM)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **[My linkedIn](https://www.linkedin.com/in/aya-elsayed-601228285/recent-activity/all/)**
+**[My deployed site](https://ayaelsaid.github.io/luxury-Car-Re.github.io/)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[My Blog](https://app.hackernoon.com/mobile/V6BE6TO89ju8w3WMT0rM)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **[My linkedIn](https://www.linkedin.com/in/aya-elsayed-601228285/recent-activity/all/)**
 
 
 ![GIF](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Untitled.gif)
