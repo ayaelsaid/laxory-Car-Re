@@ -98,9 +98,9 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 | Component        | Description                                                                                                                                                                               |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SQLAlchemy       | Powerful ORM (Object-Relational Mapping) library for Python. Provides a high-level interface for interacting with relational databases. Simplifies database operations by abstracting away|
-|                  |low-level SQL queries and allowing developers to work with Python objects.                                                                                                                |
+|                  |low-level SQL queries and allowing developers to work with Python objects.                                                                                                                 |
 | SQLFile Database | Presumably, a SQLite database file (*.sqlite or similar) managed by SQLAlchemy. Database models (such as User, Car, Reservation, etc.) are defined using SQLAlchemy ORM,                  |
-|                  |which automatically maps Python classes to database tables.                                                                                                                               |
+|                  |which automatically maps Python classes to database tables.                                                                                                                                |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
