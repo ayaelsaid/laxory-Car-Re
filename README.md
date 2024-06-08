@@ -1,5 +1,5 @@
 <h1 align="center">Luxury Car</h1>
-![![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
+![500 ERROR TO ACCESS IT IS SO EASY](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Author: Aya El Said
@@ -31,7 +31,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 - **linkedIn** : **[[]**
 
 
-  ![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
+  ![500 ERROR TO ACCESS IT IS SO EASY](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Architecture
-![![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
+![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
 
 ### Frontend
 
@@ -112,13 +112,17 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 # snippets 
 
 **auth of log in:**
-[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045842.png)
+
+![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045842.png)
+
 
 **auth of logout**
-[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045926.png)
+
+![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20045926.png)
 
 **view file**
-[![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20050027.png)
+
+![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20050027.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -169,6 +173,7 @@ Everyone has ideas to make the site better, and you are encouraged to share your
 ## Related projects
 
 **[avis](https://www.avis.com/en/locations/eg))**
+
 **[enterprise](https://www.enterprise.com/en/home.html)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
