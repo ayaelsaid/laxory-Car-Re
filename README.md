@@ -74,7 +74,7 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Architecture
-![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
+![500 ERROR TO ACCESS IT IS SO EASY](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
 
 ### Frontend
 
