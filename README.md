@@ -32,12 +32,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 - **linkedIn** : **[[]**
 
 
-### Watch the demo video
-
-<video width="640" height="480" controls>
-  <source src="https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Untitled.gif)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -78,12 +73,11 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 
 ### Frontend
 
-|       Component         |                                                     Description                                                                                                   |   
+|       Component         |                                                     Description                                                                                                   |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HTML, CSS, JavaScript   | Fundamental technologies for building the frontend. HTML provides structure, CSS adds styling, and JavaScript adds interactivity.                                 |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Jinja2 Templating Engine| Used with Flask to generate dynamic HTML content by embedding Python code within HTML templates. Enables dynamic rendering of content based on server-side data.  |
-
 ### Backend
 
 |    Component                           |           Description                                                                                                                                               |
