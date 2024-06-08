@@ -1,5 +1,5 @@
 <h1 align="center">Luxury Car</h1>
-![My Landing Page](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
+![![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20013654.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Author: Aya El Said
@@ -31,7 +31,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 - **linkedIn** : **[[]**
 
 
-  [Watch the demo video](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
+  ![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/proj.mp4)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Architecture
-![tech](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
+![![500 ERROR TO ACCESS IT IS SO EASY]](https://github.com/ayaelsaid/laxory-Car-Re.github.io/blob/main/Screenshot%202024-06-08%20034132.png)
 
 ### Frontend
 
