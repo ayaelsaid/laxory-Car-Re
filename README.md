@@ -31,7 +31,7 @@ My motivation for creating Luxury Car Rental stemmed from the observation that i
 **By building Luxury Car Rental, I aimed to bridge the gap between car rental companies and customers, providing a user-friendly platform that simplifies the process of finding, booking, and paying for rental cars.**
 
 - **Deployed site** : **[visit me](https://ayaelsaid.github.io/laxory-Car-Re.github.io/)**
-- **Blog** : **[][]**
+- **Blog** : **[blog](https://app.hackernoon.com/mobile/V6BE6TO89ju8w3WMT0rM)**
 - **linkedIn** : **[[]**
 
 
