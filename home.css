@@ -1,0 +1,234 @@
+body {
+  margin: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden;
+  background-color: var(--background-color);
+}
+
+
+header {
+  position: fixed;
+  width: 100%;
+  background: var(--background-color);
+  color: var(--text-color);
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 40px;
+  display: block;
+  border-radius: 5px;
+  border: none;
+  background-color: purple;
+}
+
+
+#intro img {
+  width: 100%;
+}
+section {
+  padding: 50px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+#intro {
+position: relative;
+padding-top: 100px;
+
+}
+.intro h1, p, a{
+padding: 0px 0px;
+}
+h1 {
+  font-size: 4em;
+}
+.offer{
+  font-size:  2em;
+  font-weight: lighter;
+}
+.cta-button {
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: purple;
+  color: white;
+  padding: 10px 40px;
+  text-decoration-line: none;
+}
+.sliders {
+position: relative;
+width: 100%;
+max-width: 800px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.slide img {
+  width: 100%;
+  display: block;
+}
+.theme-toggle {
+  margin: 20px;
+  padding: 10px 20px;
+  background: purple;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  background: purple;
+}
+
+#features {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+  background-color: var(--background-color);
+}
+
+.feature {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding-top: 200px;
+  max-width: 1200px; /* Increase max-width for more space */
+  align-items: center;
+
+}
+
+.feature-reverse {
+  flex-direction: row-reverse;
+
+}
+.feature-reverse-s {
+  flex-direction: column-reverse;
+
+
+}
+
+.feature-image, .feature-text {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pic {
+  scale: 1.5;
+}
+.feature-image img, .feature-image video {
+  width: 100%;
+  height: auto;
+  max-width: 400px; /* Set the max width of the image/video */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.feature-text {
+  text-align: center;
+}
+
+.feature h2, .feature-reverse-s h2{
+  font-size: 2em;
+
+  margin-top: 0;
+  color: var(--text-color);;
+}
+.feature p, .feature-reverse-s p{
+ color: var(--text-color);
+ font-weight: lighter;
+ font-size: 1.5em;
+}
+.feature-reverse-s p {
+  padding: 0px 70px;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+  .feature {
+      flex-direction: column;
+  }
+
+  .feature-reverse {
+      flex-direction: column;
+  }
+
+  .feature-image, .feature-text {
+      padding: 50px;
+  }
+
+  .feature-image img, .feature-image video {
+      max-width: 100%; /* Allow the image/video to take full width on smaller screens */
+  }
+}
+.text-icon {
+  display: flex;
+  align-items: center; /* Align icon vertically with text */
+  margin-bottom: 10px; /* Add some spacing between icon and text */
+}
+
+.text-icon img {
+  margin-right: 10px;
+  scale: 1; /* Add some spacing between icon and text */
+}
+.text-icon .teaxt-icon1{
+  flex-direction: column-reverse;
+}
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+body.dark-mode {
+  --background-color: #333333;
+  --text-color: #ffffff;
+}
+footer {
+  width: 100%;
+  border-top: 1px solid;
+  border-color: var(--text-color);
+  background: var(--background-color);
+  text-align: center;
+  color: var(--text-color);
+  text-decoration-color: none;
+  margin-top: 200px ;
+}
+  footer a {
+    color: var(--text-color);
+    padding: 10px 20px;
+
+  }
