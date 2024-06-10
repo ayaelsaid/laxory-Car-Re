@@ -83,7 +83,8 @@ Despite these obstacles, each challenge served as an opportunity for growth and 
 
 |    Component                           |           Description                                                                                                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Flask Framework                        |  Lightweight and flexible Python web framework for building web applications. Provides tools and libraries for handling requests, routing, and integrating with other | omponents                                                                                                                                                                                                       
+| Flask Framework                        |  Lightweight and flexible Python web framework for building web applications. Provides tools and libraries for handling requests, routing, and integrating with other | 
+                                                components                                                                                                                     
 | Flask-Login                            | Flask extension for user session management, authentication, and authorization. Simplifies the implementation of user authentication and access control.              |
 | bcrypt                                 | Password hashing library used for securely storing user passwords in the database. Provides cryptographic hashing functions to protect user passwords from            |
 |                                        |unauthorized access.                                                                                                                                                   |
