@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}
+My Reservations
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 align="center">My Reservations</h1>
+
+    {% if reservations %}
+        <table class="table">
+            <thead>
+                <tr align="center">
+                    <th>Reservation ID</th>
+                    <th>Car ID</th>
+                    <th>Brand</th>
+                    <th>Model</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Age</th>
+                    <th>Phone Number</th>
+                    <th>License Copy</th>
+                    <th>Personal ID Copy</th>
+                    <th>Payment Method</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for reservation in reservations %}
+                    <tr align="center">
+                        <td>{{ reservation.reservation_id }}</td>
+                        <td>{{ reservation.car_id }}</td>
+                        <td>{{ reservation.make }}</td>
+                        <td>{{ reservation.model }}</td>
+                        <td>{{ reservation.start_date }}</td>
+                        <td>{{ reservation.end_date }}</td>
+                        <td>{{ reservation.age }}</td>
+                        <td>{{ reservation.phone_number }}</td>
+                        <td>{{ reservation.license_copy }}</td>
+                        <td>{{ reservation.personal_id_copy }}</td>
+                        <td>{{ reservation.payment_method }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p align="center">No reservations found.</p>
+    {% endif %}
+</div>
+{% endblock %}

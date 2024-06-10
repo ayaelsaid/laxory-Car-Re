@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Cars{% endblock %} 
+{% block head %}
+    {{ super() }}
+<link rel="stylesheet" href="{{ url_for('static', filename='car.css') }}">
+{% endblock %}
+
+{% block content %}
+<h1>Available Cars</h1>
+{% if cars %}
+<ul>    
+        <li>
+            <div>
+                {% for car in cars %}
+
+                <h3>{{ car.make }} {{ car.model }}</h3>
+                <p>ID: {{ car.id }}</p>
+                <p>Year: {{ car.year }}</p>
+                <p>Color: {{ car.color }}</p>
+                <p>Description: {{ car.description }}</p>
+                <a href="{{ url_for('auth.reservation') }}" class="btn btn-primary">Reserve Now</a>
+                {% endfor %}
+            </div>
+        </li>
+
+</ul>
+{% endif %}
+
+{% endblock %}
+

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Reservation Success{% endblock %}
+
+{% block content %}
+<h1>Reservation Successful</h1>
+{% if user.is_authenticated %}
+    <p>Welcome, {{ user.username }}!</p>
+    
+    <h2>Car Details</h2>
+    <p>Car ID: {{ car.id }}</p>
+    <p>Car Brand: {{ car.make }}</p>
+    <p>Car Model: {{ car.model }}</p>
+    <p>Car Year: {{ car.year }}</p>
+
+    <h2>Reservation Details</h2>
+    <p>Reservation ID: {{ reservation.id }}</p>
+    <p>Start Date: {{ reservation.start_date }}</p>
+    <p>End Date: {{ reservation.end_date }}</p>
+    <p>Age: {{ reservation.age }}</p>
+    <p>Phone Number: {{ reservation.phone_number }}</p>
+    <p>Payment Method: {{ reservation.payment_method }}</p>
+
+    <form action="{{ url_for('auth.confirm_reservation', reservation_id=reservation.id) }}" method="POST">
+      <button type="submit">Confirm Reservation</button>
+      </form>
+{% else %}
+    <p>Please log in to see this page.</p>
+{% endif %}
+{% endblock %}
